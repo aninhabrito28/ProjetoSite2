@@ -8,7 +8,7 @@ Este projeto tem como objetivo informar e conscientizar as pessoas sobre a doen�
 - **Informar sobre as fases da doença:** Classificar a doença em três fases principais.
 
 ## Funcionalidades  
-1. **Página inicial:** Visão geral da doença.  
+1. **Visão Geral:** Descrição sobre o que é a doença.  
 2. **Sintomas:** Explicar os sinais iniciais e estágios da doença.  
 3. **Fases da doença:** Classificar as três fases da doença.
 
